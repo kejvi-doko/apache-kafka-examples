@@ -1,0 +1,24 @@
+{
+  "name": "apache-kafka-demo",
+  "version": "1.0.0",
+  "description": "This is a simple example on how to create one producer and one consumer using apache kafka python api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kejvi-doko/apache-kafka-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kejvi-doko/apache-kafka-examples/issues"
+  },
+  "homepage": "https://github.com/kejvi-doko/apache-kafka-examples#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.0",
+    "rxjs": "^7.5.6"
+  }
+}
