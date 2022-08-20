@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3461ac31-61da-4950-abd4-71140431136a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Example3/consumer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example3/producer.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example1/consumer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SendMessage/consumer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example1/producer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SendMessage/producer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example2/consumer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SendMessageInBatch/consumer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example2/producer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/SendMessageInBatch/producer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example3/consumer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Transaction/consumer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example3/producer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Transaction/producer.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660942964420</updated>
-      <workItem from="1660942965856" duration="6606000" />
+      <workItem from="1660942965856" duration="7296000" />
     </task>
     <servers />
   </component>

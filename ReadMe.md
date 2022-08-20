@@ -3,8 +3,8 @@
 Send single messages by the producer and consume them with a simple consumer
 
 ```shell
-ts-node Example1/consumer.ts
-ts-node Example1/producer.ts
+ts-node SendMessage/consumer.ts
+ts-node SendMessage/producer.ts
 ```
 
 ## Example 2 (Multiple Batch Messages)
@@ -12,8 +12,8 @@ ts-node Example1/producer.ts
 Send batch messages on different topics and consume them from multiple topics.
 
 ```shell
-ts-node Example2/consumer.ts
-ts-node Example2/producer.ts
+ts-node SendMessageInBatch/consumer.ts
+ts-node SendMessageInBatch/producer.ts
 ```
 
 ## Example 3 (Transaction)
@@ -21,6 +21,6 @@ ts-node Example2/producer.ts
 Send batch messages on different topics and consume them from multiple topics.
 
 ```shell
-ts-node Example3/consumer.ts
-ts-node Example3/producer.ts
+ts-node Transaction/consumer.ts
+ts-node Transaction/producer.ts
 ```
